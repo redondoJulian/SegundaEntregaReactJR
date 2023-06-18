@@ -59,7 +59,7 @@ const productos = [
         {
         id: "pantalon-01",
         nombre: "Pantalon 1",
-        img: "../src/assets/pantalon-01.png",
+        img: "https://i.ibb.co/Rc4ryJ9/pantalon-01.png",
         descripcion: "Pantalon largo de muy buena calidad",
         precio: 2000,
         categoria: {
@@ -70,7 +70,7 @@ const productos = [
     {
         id: "pantalon-02",
         nombre: "Pantalon 2",
-        img: "../src/assets/pantalon-02.png",
+        img: "https://i.ibb.co/mqYtJcZ/pantalon-02.png",
         descripcion: "Pantalon largo de muy buena calidad",
         precio: 2100,
         categoria: {
@@ -81,7 +81,7 @@ const productos = [
     {
         id: "pantalon-03",
         nombre: "Pantalon 3",
-        img: "../src/assets/pantalon-03.png",
+        img: "https://i.ibb.co/5Yfq4dd/pantalon-03.png",
         descripcion: "Pantalon largo de muy buena calidad",
         precio: 2200,
         categoria: {
@@ -92,7 +92,7 @@ const productos = [
     {
         id: "pantalon-04",
         nombre: "Pantalon 4",
-        img: "../src/assets/pantalon-04.png",
+        img: "https://i.ibb.co/SRGxyyG/pantalon-04.png",
         descripcion: "Pantalon largo de muy buena calidad",
         precio: 2300,
         categoria: {
@@ -103,7 +103,7 @@ const productos = [
     {
         id: "pantalon-05",
         nombre: "Pantalon 5",
-        img: "../src/assets/pantalon-05.png",
+        img: "https://i.ibb.co/b2xYLK4/pantalon-05.png",
         descripcion: "Pantalon largo de muy buena calidad",
         precio: 2400,
         categoria: {
@@ -115,7 +115,7 @@ const productos = [
     {
         id: "buzo-01",
         nombre: "Buzo 1",
-        img: "../src/assets/buzo-01.png",
+        img: "https://i.ibb.co/CWtXqjr/buzo-01.png",
         descripcion: "Buzos de algodón de muy buena calidad",
         precio: 3000,
         categoria: {
@@ -126,7 +126,7 @@ const productos = [
     {
         id: "buzo-02",
         nombre: "Buzo 2",
-        img: "../src/assets/buzo-02.png",
+        img: "https://i.ibb.co/mFxNs40/buzo-02.pngg",
         descripcion: "Buzos de algodón de muy buena calidad",
         precio: 3100,
         categoria: {
@@ -137,7 +137,7 @@ const productos = [
     {
         id: "buzo-03",
         nombre: "Buzo 3",
-        img: "../src/assets/buzo-03.png",
+        img: "https://i.ibb.co/vLd3nQk/buzo-03.png",
         descripcion: "Buzos de algodón de muy buena calidad",
         precio: 3200,
         categoria: {
@@ -148,7 +148,7 @@ const productos = [
     {
         id: "buzo-04",
         nombre: "Buzo 4",
-        img: "../src/assets/buzo-04.png",
+        img: "https://i.ibb.co/Tm1cYM9/buzo-04.png",
         descripcion: "Buzos de algodón de muy buena calidad",
         precio: 3300,
         categoria: {
@@ -159,7 +159,7 @@ const productos = [
     {
         id: "buzo-05",
         nombre: "Buzo 5",
-        img: "../src/assets/buzo-05.png",
+        img: "https://i.ibb.co/dcFd725/buzo-05.png",
         descripcion: "Buzos de algodón de muy buena calidad",
         precio: 3400,
         categoria: {
