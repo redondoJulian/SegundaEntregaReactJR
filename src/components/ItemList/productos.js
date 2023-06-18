@@ -2,7 +2,7 @@ const productos = [
     {
         id: "remera-01",
         nombre: "Remera 1",
-        img: "../src/assets/remera-01.png",
+        img: "https://i.ibb.co/LRnWGYd/remera-01.png",
         descripcion: "Remera mangas corta de muy buena calidad",
         precio: 1000,
         categoria: {
@@ -13,7 +13,7 @@ const productos = [
     {
         id: "remera-02",
         nombre: "Remera 2",
-        img: "../src/assets/remera-02.png",
+        img: "https://i.ibb.co/ccwDSBy/remera-02.png",
         descripcion: "Remera mangas corta de muy buena calidad",
         precio: 1100,
         categoria: {
@@ -24,7 +24,7 @@ const productos = [
     {
         id: "remera-03",
         nombre: "Remera 3",
-        img: "../src/assets/remera-03.png",
+        img: "https://i.ibb.co/kQWYTmw/remera-03.png",
         descripcion: "Remera mangas corta de muy buena calidad",
         precio: 1200,
         categoria: {
@@ -35,7 +35,7 @@ const productos = [
     {
         id: "remera-04",
         nombre: "Remera 4",
-        img: "../src/assets/remera-04.png",
+        img: "https://i.ibb.co/3mXgfzf/remera-04.png",
         descripcion: "Remera mangas corta de muy buena calidad",
         precio: 1300,
         categoria: {
@@ -46,7 +46,7 @@ const productos = [
     {
         id: "remera-05",
         nombre: "Remera 5",
-        img: "../src/assets/remera-05.png",
+        img: "https://i.ibb.co/0jSBhV9/remera-05.png",
         descripcion: "Remera mangas corta de muy buena calidad",
         precio: 1400,
         categoria: {
