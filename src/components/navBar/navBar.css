@@ -1,0 +1,84 @@
+header{
+    background-color: white;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,.2);
+    width: 100%;
+    height: 4rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li {
+    text-decoration: none;
+    list-style: none;
+    padding: 8px 12px;
+    margin: 0 16px;
+    font-weight: bold;
+}
+.li:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    border-radius: 1rem;
+}
+
+.Coder {
+    background-color: black;
+    padding: 8px 12px;
+    margin: 0 16px;
+    color: white;
+    padding: 12px 20px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,.2);
+    border-radius: 16px;
+    font-weight: bold;
+    transition: .2s all ease;
+}
+.Coder:hover{
+    cursor: none;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,.5);
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.carrito{
+    background-color: rgb(240, 240, 240);
+    color: black;
+    padding: 8px;
+    border-radius: 1rem;
+    margin-left: 8px;
+}
+.carrito span{
+    padding: 0 4px;
+    margin: 0 4px;
+    background-color: rgb(243, 243, 243);
+    font-weight: 600;
+    border-radius: 1rem;
+    color: black;
+    text-align: center;
+}
+
+.flex-conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
